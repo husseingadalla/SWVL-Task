@@ -1,0 +1,11 @@
+[
+
+{
+"DEVICE_NAME" : "sdk_gphone_x86",
+"PLATFORM_NAME": "Android",
+"PLATFORMVERSION":"11",
+"APPPACKAGE":"io.swvl.customer",
+"APPACTIVITY":"io.swvl.customer.features.LaunchScreenActivity"
+ }
+ 
+ ]
